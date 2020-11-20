@@ -1,0 +1,11 @@
+storage:first a file a sob data save koira rakhbo. 
+	protibar shurutei sob data load koira struct a vorbo. 
+	then listbox a load dibo.
+Create:	listbox er create option theka creator a dhukbo.
+	oikhane keyboard er tab use koira koira sob field set korbo.
+	then data get kore creator close koira dibo and data storage r viewer a vorbo
+	storage a vorar sathei struct a vorbo jate abar storage run kora na lage.
+search:	listbox er srearch option theka search gui te jabo
+	oikhane edit box theke search korbo and same gui er search er listbox a show korabo.
+view:	listbox er konotate click korle oitar info msgbox a dekhabe.
+	msgbox a multiple msg dekhanor code kora lagbe
